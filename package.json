@@ -1,0 +1,22 @@
+{
+  "name": "virtual-dom-loader",
+  "version": "0.1.0",
+  "description": "A virtual-hyperscript, used in virtual-dom, to JSX converter for Webpack",
+  "main": "index.js",
+  "keywords": ["jsx", "virtual-dom", "hyperscript", "virtual-hyperscript"], 
+  "url" : "http://github.com/christianalfoni/virtual-dom-loader/issues", 
+  "email" : "christianalfoni@gmail.com",
+  "repository" : {
+   "type" : "git", 
+   "url" : "https://github.com/christianalfoni/virtual-dom-loader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Alfoni",
+  "license": "MIT",
+  "dependencies": {
+    "jsx-transform": "^0.12.1",
+    "loader-utils": "^0.2.6"
+  }
+}
